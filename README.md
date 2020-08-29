@@ -1,5 +1,5 @@
 # three-js-block-engine-example
-This is an example of Minecraft-like engine.
+This is an example of a Minecraft-like engine.
 
 ## Prototype features:
 * terrain generation
@@ -13,9 +13,9 @@ This is an example of Minecraft-like engine.
 * Terrain generation: https://github.com/Rafal-Majewski/bayoro-noise
 
 ## Controls:
-`e` - move forward
-`q` - move backward
-`w` - rotate up
-`s` - rotate down
-`a` - rotate left
-`d` - rotate right
+* `e` - move forward
+* `q` - move backward
+* `w` - rotate up
+* `s` - rotate down
+* `a` - rotate left
+* `d` - rotate right
